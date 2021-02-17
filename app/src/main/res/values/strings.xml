@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tony</string>
+    <string name="FIND">Button</string>
+    <string name="find">FIND</string>
+    <string name="login_tony">login tony</string>
+    <string name="todo">TODO</string>
+    <string name="join_tony">join tony</string>
+    <string name="name">name</string>
+    <string name="textview">TextView</string>
+    <string name="password">password</string>
+</resources>
